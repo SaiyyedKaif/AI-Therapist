@@ -1,0 +1,26 @@
+# Core Web Framework and Dashboard
+streamlit
+
+# Data Handling and Visualization
+numpy
+pandas
+plotly
+
+# Video/Image Processing
+opencv-python
+Pillow
+
+# Facial Emotion Detection
+deepface
+
+# Audio Processing and Emotion Detection
+librosa
+sounddevice
+SpeechRecognition
+
+# Machine Learning for Text & Voice Emotion
+torch
+transformers
+
+# Utilities (most are part of standard library, no install required)
+# threading, queue, time, datetime, io, tempfile, os, logging, re, typing
